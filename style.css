@@ -1,0 +1,16 @@
+.body {
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+    width: 1500px;
+}
+.green {
+    color: green;
+}
+.pink {
+    color: palevioletred;
+    
+}
+.tb1 {
+    text-align: center;
+}
